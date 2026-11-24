@@ -1,0 +1,6 @@
+{
+  "name": "SCHEW Inventory",
+  "description": "Sistem Informasi Manajemen Stok Toko Grosir Berbasis Web untuk operasional stok barang, mutasi masuk/keluar, kas operasional, dan pelaporan SCHEW / SCHEW ID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
